@@ -40,7 +40,7 @@ nav li {
     width: 100%;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 768px) {
     nav li {
         border-bottom: 1px solid #999;
     }
@@ -54,7 +54,7 @@ nav a {
     text-align: center;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 768px) {
     nav a {
         color: #999;
     }
@@ -79,7 +79,7 @@ nav a:hover {
     padding-left: 10px;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 768px) {
     .logo {
         width: 100%;
         justify-content: center;
@@ -90,7 +90,7 @@ nav a:hover {
    
 }
 
-@media (max-width: 900px) {
+@media (max-width: 768px) {
     .menu {
         display: none;          
         align-items: center;      
@@ -141,7 +141,7 @@ section {
     margin: 0 40px 10px 40px;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 768px) {
     section {
         margin: 0 15px 10px 15px;
     }
@@ -302,7 +302,7 @@ footer
     
 }
 
-@media (max-width: 900px) {
+@media (max-width: 768px) {
     .profile {
         height: 300px;
     }
@@ -365,7 +365,7 @@ footer ul li {
     flex-direction: row;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 768px) {
     .row-m {
         display: flex;
         flex-direction: column;
@@ -378,7 +378,7 @@ footer ul li {
     width: 50%;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 768px) {
     .col50-m {
         width: 50% !important;
     }
@@ -396,7 +396,7 @@ footer ul li {
     width: 70%;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 768px) {
     .col-m {
         width: 100%;
         margin: auto 2px !important;
